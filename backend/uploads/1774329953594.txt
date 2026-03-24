@@ -1,0 +1,1 @@
+Hello everyone, this audio is for demo purpose to show how Whisper transforms the audio data into the text. Thank you.
