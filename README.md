@@ -1,3 +1,6 @@
+![meetnoteui](https://github.com/user-attachments/assets/4beeda74-f8de-4982-a5cc-8074212e8472)
+
+
 🎙️ Meeting Insight Dashboard (Full-Stack AI)
 
 
